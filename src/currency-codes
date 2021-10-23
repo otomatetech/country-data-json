@@ -1,0 +1,842 @@
+[
+  {
+    "code": "AED",
+    "currency": "UAE Dirham",
+    "value": 784
+  },
+  {
+    "code": "AFN",
+    "currency": "Afghani",
+    "value": 971
+  },
+  {
+    "code": "ALL",
+    "currency": "Lek",
+    "value": 8
+  },
+  {
+    "code": "AMD",
+    "currency": "Armenian Dram",
+    "value": 51
+  },
+  {
+    "code": "ANG",
+    "currency": "Netherlands Antillean Guilder",
+    "value": 532
+  },
+  {
+    "code": "AOA",
+    "currency": "Kwanza",
+    "value": 973
+  },
+  {
+    "code": "ARS",
+    "currency": "Argentine Peso",
+    "value": 32
+  },
+  {
+    "code": "AUD",
+    "currency": "Australian Dollar",
+    "value": 36
+  },
+  {
+    "code": "AWG",
+    "currency": "Aruban Florin",
+    "value": 533
+  },
+  {
+    "code": "AZN",
+    "currency": "Azerbaijanian Manat",
+    "value": 944
+  },
+  {
+    "code": "BAM",
+    "currency": "Convertible Mark",
+    "value": 977
+  },
+  {
+    "code": "BBD",
+    "currency": "Barbados Dollar",
+    "value": 52
+  },
+  {
+    "code": "BDT",
+    "currency": "Taka",
+    "value": 50
+  },
+  {
+    "code": "BGN",
+    "currency": "Bulgarian Lev",
+    "value": 975
+  },
+  {
+    "code": "BHD",
+    "currency": "Bahraini Dinar",
+    "value": 48
+  },
+  {
+    "code": "BIF",
+    "currency": "Burundi Franc",
+    "value": 108
+  },
+  {
+    "code": "BMD",
+    "currency": "Bermudian Dollar",
+    "value": 60
+  },
+  {
+    "code": "BND",
+    "currency": "Brunei Dollar",
+    "value": 96
+  },
+  {
+    "code": "BOB",
+    "currency": "Boliviano",
+    "value": 68
+  },
+  {
+    "code": "BOV",
+    "currency": "Mvdol",
+    "value": 984
+  },
+  {
+    "code": "BRL",
+    "currency": "Brazilian Real",
+    "value": 986
+  },
+  {
+    "code": "BSD",
+    "currency": "Bahamian Dollar",
+    "value": 44
+  },
+  {
+    "code": "BTN",
+    "currency": "Ngultrum",
+    "value": 64
+  },
+  {
+    "code": "BWP",
+    "currency": "Pula",
+    "value": 72
+  },
+  {
+    "code": "BYN",
+    "currency": "Belarussian Ruble",
+    "value": 933
+  },
+  {
+    "code": "BZD",
+    "currency": "Belize Dollar",
+    "value": 84
+  },
+  {
+    "code": "CAD",
+    "currency": "Canadian Dollar",
+    "value": 124
+  },
+  {
+    "code": "CDF",
+    "currency": "Congolese Franc",
+    "value": 976
+  },
+  {
+    "code": "CHE",
+    "currency": "WIR Euro",
+    "value": 947
+  },
+  {
+    "code": "CHF",
+    "currency": "Swiss Franc",
+    "value": 756
+  },
+  {
+    "code": "CHW",
+    "currency": "WIR Franc",
+    "value": 948
+  },
+  {
+    "code": "CLF",
+    "currency": "Unidad de Fomento",
+    "value": 990
+  },
+  {
+    "code": "CLP",
+    "currency": "Chilean Peso",
+    "value": 152
+  },
+  {
+    "code": "CNY",
+    "currency": "Yuan Renminbi",
+    "value": 156
+  },
+  {
+    "code": "COP",
+    "currency": "Colombian Peso",
+    "value": 170
+  },
+  {
+    "code": "COU",
+    "currency": "Unidad de Valor Real",
+    "value": 970
+  },
+  {
+    "code": "CRC",
+    "currency": "Costa Rican Colon",
+    "value": 188
+  },
+  {
+    "code": "CUC",
+    "currency": "Peso Convertible",
+    "value": 931
+  },
+  {
+    "code": "CUP",
+    "currency": "Cuban Peso",
+    "value": 192
+  },
+  {
+    "code": "CVE",
+    "currency": "Cabo Verde Escudo",
+    "value": 132
+  },
+  {
+    "code": "CZK",
+    "currency": "Czech Koruna",
+    "value": 203
+  },
+  {
+    "code": "DJF",
+    "currency": "Djibouti Franc",
+    "value": 262
+  },
+  {
+    "code": "DKK",
+    "currency": "Danish Krone",
+    "value": 208
+  },
+  {
+    "code": "DOP",
+    "currency": "Dominican Peso",
+    "value": 214
+  },
+  {
+    "code": "DZD",
+    "currency": "Algerian Dinar",
+    "value": 12
+  },
+  {
+    "code": "EGP",
+    "currency": "Egyptian Pound",
+    "value": 818
+  },
+  {
+    "code": "ERN",
+    "currency": "Nakfa",
+    "value": 232
+  },
+  {
+    "code": "ETB",
+    "currency": "Ethiopian Birr",
+    "value": 230
+  },
+  {
+    "code": "EUR",
+    "currency": "Euro",
+    "value": 978
+  },
+  {
+    "code": "FJD",
+    "currency": "Fiji Dollar",
+    "value": 242
+  },
+  {
+    "code": "FKP",
+    "currency": "Falkland Islands Pound",
+    "value": 238
+  },
+  {
+    "code": "GBP",
+    "currency": "Pound Sterling",
+    "value": 826
+  },
+  {
+    "code": "GEL",
+    "currency": "Lari",
+    "value": 981
+  },
+  {
+    "code": "GHS",
+    "currency": "Ghana Cedi",
+    "value": 936
+  },
+  {
+    "code": "GIP",
+    "currency": "Gibraltar Pound",
+    "value": 292
+  },
+  {
+    "code": "GMD",
+    "currency": "Dalasi",
+    "value": 270
+  },
+  {
+    "code": "GNF",
+    "currency": "Guinea Franc",
+    "value": 324
+  },
+  {
+    "code": "GTQ",
+    "currency": "Quetzal",
+    "value": 320
+  },
+  {
+    "code": "GYD",
+    "currency": "Guyana Dollar",
+    "value": 328
+  },
+  {
+    "code": "HKD",
+    "currency": "Hong Kong Dollar",
+    "value": 344
+  },
+  {
+    "code": "HNL",
+    "currency": "Lempira",
+    "value": 340
+  },
+  {
+    "code": "HRK",
+    "currency": "Kuna",
+    "value": 191
+  },
+  {
+    "code": "HTG",
+    "currency": "Gourde",
+    "value": 332
+  },
+  {
+    "code": "HUF",
+    "currency": "Forint",
+    "value": 348
+  },
+  {
+    "code": "IDR",
+    "currency": "Rupiah",
+    "value": 360
+  },
+  {
+    "code": "ILS",
+    "currency": "New Israeli Sheqel",
+    "value": 376
+  },
+  {
+    "code": "INR",
+    "currency": "Indian Rupee",
+    "value": 356
+  },
+  {
+    "code": "IQD",
+    "currency": "Iraqi Dinar",
+    "value": 368
+  },
+  {
+    "code": "IRR",
+    "currency": "Iranian Rial",
+    "value": 364
+  },
+  {
+    "code": "ISK",
+    "currency": "Iceland Krona",
+    "value": 352
+  },
+  {
+    "code": "JMD",
+    "currency": "Jamaican Dollar",
+    "value": 388
+  },
+  {
+    "code": "JOD",
+    "currency": "Jordanian Dinar",
+    "value": 400
+  },
+  {
+    "code": "JPY",
+    "currency": "Yen",
+    "value": 392
+  },
+  {
+    "code": "KES",
+    "currency": "Kenyan Shilling",
+    "value": 404
+  },
+  {
+    "code": "KGS",
+    "currency": "Som",
+    "value": 417
+  },
+  {
+    "code": "KHR",
+    "currency": "Riel",
+    "value": 116
+  },
+  {
+    "code": "KMF",
+    "currency": "Comoro Franc",
+    "value": 174
+  },
+  {
+    "code": "KPW",
+    "currency": "North Korean Won",
+    "value": 408
+  },
+  {
+    "code": "KRW",
+    "currency": "Won",
+    "value": 410
+  },
+  {
+    "code": "KWD",
+    "currency": "Kuwaiti Dinar",
+    "value": 414
+  },
+  {
+    "code": "KYD",
+    "currency": "Cayman Islands Dollar",
+    "value": 136
+  },
+  {
+    "code": "KZT",
+    "currency": "Tenge",
+    "value": 398
+  },
+  {
+    "code": "LAK",
+    "currency": "Kip",
+    "value": 418
+  },
+  {
+    "code": "LBP",
+    "currency": "Lebanese Pound",
+    "value": 422
+  },
+  {
+    "code": "LKR",
+    "currency": "Sri Lanka Rupee",
+    "value": 144
+  },
+  {
+    "code": "LRD",
+    "currency": "Liberian Dollar",
+    "value": 430
+  },
+  {
+    "code": "LSL",
+    "currency": "Loti",
+    "value": 426
+  },
+  {
+    "code": "LYD",
+    "currency": "Libyan Dinar",
+    "value": 434
+  },
+  {
+    "code": "MAD",
+    "currency": "Moroccan Dirham",
+    "value": 504
+  },
+  {
+    "code": "MDL",
+    "currency": "Moldovan Leu",
+    "value": 498
+  },
+  {
+    "code": "MGA",
+    "currency": "Malagasy Ariary",
+    "value": 969
+  },
+  {
+    "code": "MKD",
+    "currency": "Denar",
+    "value": 807
+  },
+  {
+    "code": "MMK",
+    "currency": "Kyat",
+    "value": 104
+  },
+  {
+    "code": "MNT",
+    "currency": "Tugrik",
+    "value": 496
+  },
+  {
+    "code": "MOP",
+    "currency": "Pataca",
+    "value": 446
+  },
+  {
+    "code": "MRU",
+    "currency": "Ouguiya",
+    "value": 929
+  },
+  {
+    "code": "MUR",
+    "currency": "Mauritius Rupee",
+    "value": 480
+  },
+  {
+    "code": "MVR",
+    "currency": "Rufiyaa",
+    "value": 462
+  },
+  {
+    "code": "MWK",
+    "currency": "Kwacha",
+    "value": 454
+  },
+  {
+    "code": "MXN",
+    "currency": "Mexican Peso",
+    "value": 484
+  },
+  {
+    "code": "MXV",
+    "currency": "Mexican Unidad de Inversion (UDI)",
+    "value": 979
+  },
+  {
+    "code": "MYR",
+    "currency": "Malaysian Ringgit",
+    "value": 458
+  },
+  {
+    "code": "MZN",
+    "currency": "Mozambique Metical",
+    "value": 943
+  },
+  {
+    "code": "NAD",
+    "currency": "Namibia Dollar",
+    "value": 516
+  },
+  {
+    "code": "NGN",
+    "currency": "Naira",
+    "value": 566
+  },
+  {
+    "code": "NIO",
+    "currency": "Cordoba Oro",
+    "value": 558
+  },
+  {
+    "code": "NOK",
+    "currency": "Norwegian Krone",
+    "value": 578
+  },
+  {
+    "code": "NPR",
+    "currency": "Nepalese Rupee",
+    "value": 524
+  },
+  {
+    "code": "NZD",
+    "currency": "New Zealand Dollar",
+    "value": 554
+  },
+  {
+    "code": "OMR",
+    "currency": "Rial Omani",
+    "value": 512
+  },
+  {
+    "code": "PAB",
+    "currency": "Balboa",
+    "value": 590
+  },
+  {
+    "code": "PEN",
+    "currency": "Nuevo Sol",
+    "value": 604
+  },
+  {
+    "code": "PGK",
+    "currency": "Kina",
+    "value": 598
+  },
+  {
+    "code": "PHP",
+    "currency": "Philippine Peso",
+    "value": 608
+  },
+  {
+    "code": "PKR",
+    "currency": "Pakistan Rupee",
+    "value": 586
+  },
+  {
+    "code": "PLN",
+    "currency": "Zloty",
+    "value": 985
+  },
+  {
+    "code": "PYG",
+    "currency": "Guarani",
+    "value": 600
+  },
+  {
+    "code": "QAR",
+    "currency": "Qatari Rial",
+    "value": 634
+  },
+  {
+    "code": "RON",
+    "currency": "Romanian Leu",
+    "value": 946
+  },
+  {
+    "code": "RSD",
+    "currency": "Serbian Dinar",
+    "value": 941
+  },
+  {
+    "code": "RUB",
+    "currency": "Russian Ruble",
+    "value": 643
+  },
+  {
+    "code": "RWF",
+    "currency": "Rwanda Franc",
+    "value": 646
+  },
+  {
+    "code": "SAR",
+    "currency": "Saudi Riyal",
+    "value": 682
+  },
+  {
+    "code": "SBD",
+    "currency": "Solomon Islands Dollar",
+    "value": 90
+  },
+  {
+    "code": "SCR",
+    "currency": "Seychelles Rupee",
+    "value": 690
+  },
+  {
+    "code": "SDG",
+    "currency": "Sudanese Pound",
+    "value": 938
+  },
+  {
+    "code": "SEK",
+    "currency": "Swedish Krona",
+    "value": 752
+  },
+  {
+    "code": "SGD",
+    "currency": "Singapore Dollar",
+    "value": 702
+  },
+  {
+    "code": "SHP",
+    "currency": "Saint Helena Pound",
+    "value": 654
+  },
+  {
+    "code": "SLL",
+    "currency": "Leone",
+    "value": 694
+  },
+  {
+    "code": "SOS",
+    "currency": "Somali Shilling",
+    "value": 706
+  },
+  {
+    "code": "SRD",
+    "currency": "Surinam Dollar",
+    "value": 968
+  },
+  {
+    "code": "SSP",
+    "currency": "South Sudanese Pound",
+    "value": 728
+  },
+  {
+    "code": "STN",
+    "currency": "Dobra",
+    "value": 930
+  },
+  {
+    "code": "SVC",
+    "currency": "El Salvador Colon",
+    "value": 222
+  },
+  {
+    "code": "SYP",
+    "currency": "Syrian Pound",
+    "value": 760
+  },
+  {
+    "code": "SZL",
+    "currency": "Lilangeni",
+    "value": 748
+  },
+  {
+    "code": "THB",
+    "currency": "Baht",
+    "value": 764
+  },
+  {
+    "code": "TJS",
+    "currency": "Somoni",
+    "value": 972
+  },
+  {
+    "code": "TMT",
+    "currency": "Turkmenistan New Manat",
+    "value": 934
+  },
+  {
+    "code": "TND",
+    "currency": "Tunisian Dinar",
+    "value": 788
+  },
+  {
+    "code": "TOP",
+    "currency": "Pa’anga",
+    "value": 776
+  },
+  {
+    "code": "TRY",
+    "currency": "Turkish Lira",
+    "value": 949
+  },
+  {
+    "code": "TTD",
+    "currency": "Trinidad and Tobago Dollar",
+    "value": 780
+  },
+  {
+    "code": "TWD",
+    "currency": "New Taiwan Dollar",
+    "value": 901
+  },
+  {
+    "code": "TZS",
+    "currency": "Tanzanian Shilling",
+    "value": 834
+  },
+  {
+    "code": "UAH",
+    "currency": "Hryvnia",
+    "value": 980
+  },
+  {
+    "code": "UGX",
+    "currency": "Uganda Shilling",
+    "value": 800
+  },
+  {
+    "code": "USD",
+    "currency": "US Dollar",
+    "value": 840
+  },
+  {
+    "code": "USN",
+    "currency": "US Dollar (Next day)",
+    "value": 997
+  },
+  {
+    "code": "UYI",
+    "currency": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
+    "value": 940
+  },
+  {
+    "code": "UYU",
+    "currency": "Peso Uruguayo",
+    "value": 858
+  },
+  {
+    "code": "UZS",
+    "currency": "Uzbekistan Sum",
+    "value": 860
+  },
+  {
+    "code": "VEF",
+    "currency": "Bolivar",
+    "value": 937
+  },
+  {
+    "code": "VND",
+    "currency": "Dong",
+    "value": 704
+  },
+  {
+    "code": "VUV",
+    "currency": "Vatu",
+    "value": 548
+  },
+  {
+    "code": "WST",
+    "currency": "Tala",
+    "value": 882
+  },
+  {
+    "code": "XAF",
+    "currency": "CFA Franc BEAC",
+    "value": 950
+  },
+  {
+    "code": "XCD",
+    "currency": "East Caribbean Dollar",
+    "value": 951
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (Special Drawing Right)",
+    "value": 960
+  },
+  {
+    "code": "XOF",
+    "currency": "CFA Franc BCEAO",
+    "value": 952
+  },
+  {
+    "code": "XPF",
+    "currency": "CFP Franc",
+    "value": 953
+  },
+  {
+    "code": "XSU",
+    "currency": "Sucre",
+    "value": 994
+  },
+  {
+    "code": "XUA",
+    "currency": "ADB Unit of Account",
+    "value": 965
+  },
+  {
+    "code": "YER",
+    "currency": "Yemeni Rial",
+    "value": 886
+  },
+  {
+    "code": "ZAR",
+    "currency": "Rand",
+    "value": 710
+  },
+  {
+    "code": "ZMW",
+    "currency": "Zambian Kwacha",
+    "value": 967
+  },
+  {
+    "code": "ZWL",
+    "currency": "Zimbabwe Dollar",
+    "value": 932
+  }
+]
