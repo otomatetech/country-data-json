@@ -1,0 +1,47 @@
+[
+    { 
+          "identifier": "name",
+          "name": "Name",
+          "label": "Name",
+          "type": "text",
+          "validators": { 
+              "required": true,
+              "maxLength": 50,
+              "minLength": null
+          }
+      },
+      { 
+          "identifier": "email",
+          "name": "Email",
+          "label": "Email",
+          "type": "email",
+          "validators": { 
+              "required": true,
+              "maxLength": null,
+              "minLength": null
+          }
+      },
+      { 
+          "identifier": "phone",
+          "name": "Phone",
+          "label": "Phone",
+          "type": "tel",
+          "validators": { 
+              "required": true,
+              "maxLength": null,
+              "minLength": null
+          }
+      },
+      { 
+          "identifier": "description",
+          "name": "Paragraph",
+          "label": "Description",
+          "type": "textarea",
+          "validators": { 
+              "required": true,
+              "maxLength": 10000,
+              "minLength": null
+          }
+      }
+      
+  ]
